@@ -1,5 +1,5 @@
 # False Position root finding
-This folder contains the false postion algorithm. This algorith uses the false position root finding method to find the root of a function that is given by the user.
+This folder contains the false postion algorithm. This algorith uses the false position root finding method to find the root of a function that is given by the user. To use this function, input your function, and the upper and lower guesses. You can also input your desired stopping criteria and max iterations, but if not it will use the defaults designed into the algoritm
 ## Inputs
 * func - the function being evaluated
 * x_l- the lower guess
