@@ -1,5 +1,5 @@
 # Lu Factorization Algorithm
-This algorithm takes the input A matrix and uses Gauss elimination and Lu decompisition to find the upper lower and pivot matrixes.
+This algorithm takes the input A matrix and uses Gauss elimination and Lu decompisition to find the upper lower and pivot matrices.
 ## Inputs
 * A - coefficient matrix
  ## Outputs
